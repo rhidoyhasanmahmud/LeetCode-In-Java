@@ -7,3 +7,4 @@ Solutions to all problems of Leetcode online judge written in Java
 3. [LeetCode: 441 - Arranging Coins](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_441.java)
 4. [LeetCode: 1672 - Richest Customer Wealth](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1672.java)
 5. [LeetCode: 1773 - Count Items Matching a Rule](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1773.java)
+6. [LeetCode: 1470 - 1470. Shuffle the Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1470.java)
