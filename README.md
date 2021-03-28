@@ -14,3 +14,4 @@ Solutions to all problems of Leetcode online judge written in Java
 8. [LeetCode: 771 - Jewels and Stones](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_771.java)
 9. [LeetCode: 1108 - Defanging an IP Address](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1108.java)
 10. [LeetCode: 1365 - How Many Numbers Are Smaller Than the Current Number](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1365.java)
+11. [LeetCode: 1342 - Number of Steps to Reduce a Number to Zero](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1342.java)
