@@ -11,3 +11,4 @@ Solutions to all problems of Leetcode online judge written in Java
 5. [LeetCode: 1773 - Count Items Matching a Rule](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1773.java)
 6. [LeetCode: 1470 - Shuffle the Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1470.java)
 7. [LeetCode: 1512 - Number of Good Pairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1512.java)
+8. [LeetCode: 771 - Jewels and Stones](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_771.java)
