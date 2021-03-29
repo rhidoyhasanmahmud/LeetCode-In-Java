@@ -17,3 +17,5 @@ Solutions to all problems of Leetcode online judge written in Java
 11. [LeetCode: 1342 - Number of Steps to Reduce a Number to Zero](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1342.java)
 12. [LeetCode: 1528 - Shuffle String](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1528.java)
 13. [LeetCode: 1313 - Decompress Run-Length Encoded List](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1313.java)
+14. [LeetCode: 1678 - Goal Parser Interpretation](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1678.java)
+
