@@ -21,5 +21,6 @@ Solutions to all problems of LeetCode online judge written in Java
 15. [LeetCode: 1431 - Kids With the Greatest Number of Candies](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1431.java)
 16. [LeetCode: 1389 - Create Target Array in the Given Order](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1389.java)
 17. [LeetCode: 1 - Two Sum](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_001.java)
+18. [LeetCode: 7 - Reverse Integer](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_007.java)
 
 
