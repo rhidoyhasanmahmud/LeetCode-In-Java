@@ -1,6 +1,6 @@
 # LeetCode-In-Java
 
-Solutions to all problems of Leetcode online judge written in Java
+Solutions to all problems of LeetCode online judge written in Java
 
 ## Problems And Solution List:
 
@@ -20,5 +20,6 @@ Solutions to all problems of Leetcode online judge written in Java
 14. [LeetCode: 1678 - Goal Parser Interpretation](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1678.java)
 15. [LeetCode: 1431 - Kids With the Greatest Number of Candies](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1431.java)
 16. [LeetCode: 1389 - Create Target Array in the Given Order](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_1389.java)
+17. [LeetCode: 1 - Two Sum](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_001.java)
 
 
