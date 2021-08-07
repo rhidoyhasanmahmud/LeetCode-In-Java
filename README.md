@@ -24,5 +24,6 @@ Solutions to all problems of LeetCode online judge written in Java
 18. [LeetCode: 7 - Reverse Integer](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_007.java)
 19. [LeetCode: 9 - Palindrome Number](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_009.java)
 20. [LeetCode: 20 - Valid Parentheses](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_020.java)
+21. [LeetCode: 27 - Remove Element](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_027.java)
 
 
