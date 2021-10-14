@@ -1,8 +1,6 @@
 package Data_Structure_14_Days_LeetCode;
 
-import java.util.Collections;
 import java.util.HashSet;
-import java.util.Set;
 
 public class Solution {
     public static void main(String[] args) {

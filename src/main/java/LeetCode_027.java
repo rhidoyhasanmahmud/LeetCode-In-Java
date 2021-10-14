@@ -1,4 +1,3 @@
-
 public class LeetCode_027 {
     public static void main(String[] args) {
         int[] nums = {3, 3, 4, 5, 3};

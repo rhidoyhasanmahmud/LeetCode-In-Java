@@ -1,5 +1,3 @@
-import java.sql.Array;
-
 public class LeetCode_001 {
     public static void main(String[] args) {
         int[] arr = {2, 7, 11, 15};
