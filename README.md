@@ -27,3 +27,4 @@ Solutions to all problems of LeetCode online judge written in Java
 21. [LeetCode: 27 - Remove Element](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_027.java)
 22. [LeetCode: 26 - Remove Duplicates from Sorted Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_026.java)
 23. [LeetCode: 35 - Search Insert Position](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/LeetCode_035.java)
+24. [LeetCode: 217 - Contains Duplicate](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/Data_Structure_14_Days_LeetCode/LeetCode_217.java)
