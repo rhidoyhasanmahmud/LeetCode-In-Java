@@ -1,5 +1,3 @@
-package Data_Structure_14_Days_LeetCode;
-
 public class LeetCode_53 {
     public static void main(String[] args) {
         int[] nums = {-2, -1};

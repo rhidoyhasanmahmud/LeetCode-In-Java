@@ -1,5 +1,3 @@
-package Data_Structure_14_Days_LeetCode;
-
 import java.util.HashSet;
 
 public class LeetCode_217 {
