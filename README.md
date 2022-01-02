@@ -31,3 +31,4 @@ Solutions to all problems of LeetCode online judge written in Java
 25. [LeetCode: 53 - Maximum Subarray](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_53.java)
 26. [LeetCode: 2011 - Final Value of Variable After Performing Operations](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2011.java)
 27. [LeetCode: 2114 - Maximum Number of Words Found in Sentences](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2114.java)
+28. [LeetCode: 1859 - Sorting the Sentence](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1859.java)
