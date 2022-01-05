@@ -33,3 +33,5 @@ Solutions to all problems of LeetCode online judge written in Java
 27. [LeetCode: 2114 - Maximum Number of Words Found in Sentences](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2114.java)
 28. [LeetCode: 1859 - Sorting the Sentence](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1859.java)
 29. [LeetCode: 2124 - Check if All A's Appears Before All B's](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2124.java)
+30. [LeetCode: 2119 - A Number After a Double Reversal](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2119.java)
+31. [LeetCode: 1929 - Concatenation of Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1929.java)
