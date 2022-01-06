@@ -35,3 +35,4 @@ Solutions to all problems of LeetCode online judge written in Java
 29. [LeetCode: 2124 - Check if All A's Appears Before All B's](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2124.java)
 30. [LeetCode: 2119 - A Number After a Double Reversal](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2119.java)
 31. [LeetCode: 1929 - Concatenation of Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1929.java)
+32. [LeetCode: 2089 - Find Target Indices After Sorting Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2089.java)
