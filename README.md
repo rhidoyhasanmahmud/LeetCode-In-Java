@@ -38,3 +38,4 @@ Solutions to all problems of LeetCode online judge written in Java
 32. [LeetCode: 2089 - Find Target Indices After Sorting Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2089.java)
 32. [LeetCode: 1688 - Count of Matches in Tournament](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1688.java)
 33. [LeetCode: 2129 - Capitalize the Title](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2129.java)
+34. [LeetCode: 1920 - Build Array from Permutation](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1920.java)
