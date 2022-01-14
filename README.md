@@ -43,3 +43,4 @@ Solutions to all problems of LeetCode online judge written in Java
 36. [LeetCode: 14 -  Roman to Integer](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_14.java)
 37. [LeetCode: 58 - Length of Last Word](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_58.java)
 38. [LeetCode: 69 - Sqrt(x)](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_69.java)
+39. [LeetCode: 1720 - Decode XORed Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1720.java)
