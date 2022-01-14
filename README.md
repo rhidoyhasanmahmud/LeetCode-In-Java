@@ -48,5 +48,5 @@ Solutions to all problems of LeetCode online judge written in Java
 41. [LeetCode: 1832 - Check if the Sentence Is Pangram](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1832.java)
 42. [LeetCode: 1662 - Check If Two String Arrays are Equivalent](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1662.java)
 43. [LeetCode: 709 - To Lower Case](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_709.java)
-43. [LeetCode: 1913 - Maximum Product Difference Between Two Pairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1913.java)
-43. [LeetCode: 1816 - Truncate Sentence](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1816.java)
+44. [LeetCode: 1913 - Maximum Product Difference Between Two Pairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1913.java)
+45. [LeetCode: 1816 - Truncate Sentence](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1816.java)
