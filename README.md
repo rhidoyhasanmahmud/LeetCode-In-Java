@@ -46,4 +46,5 @@ Solutions to all problems of LeetCode online judge written in Java
 39. [LeetCode: 1720 - Decode XORed Array](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1720.java)
 40. [LeetCode: 1684 - Count the Number of Consistent Strings](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1684.java)
 41. [LeetCode: 1832 - Check if the Sentence Is Pangram](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1832.java)
-41. [LeetCode: 1662 - Check If Two String Arrays are Equivalent](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1662.java)
+42. [LeetCode: 1662 - Check If Two String Arrays are Equivalent](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1662.java)
+43. [LeetCode: 709 - To Lower Case](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_709.java)
