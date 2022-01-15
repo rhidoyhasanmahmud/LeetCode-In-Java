@@ -50,3 +50,4 @@ Solutions to all problems of LeetCode online judge written in Java
 43. [LeetCode: 709 - To Lower Case](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_709.java)
 44. [LeetCode: 1913 - Maximum Product Difference Between Two Pairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1913.java)
 45. [LeetCode: 1816 - Truncate Sentence](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1816.java)
+46. [LeetCode: 2006 - Count Number of Pairs With Absolute Difference K](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2006.java)
