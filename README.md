@@ -52,3 +52,4 @@ Solutions to all problems of LeetCode online judge written in Java
 45. [LeetCode: 1816 - Truncate Sentence](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1816.java)
 46. [LeetCode: 2006 - Count Number of Pairs With Absolute Difference K](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_2006.java)
 47. [LeetCode: 1051 - Height Checker](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1051.java)
+48. [LeetCode: 905 - Sort Array By Parity](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_905.java)
