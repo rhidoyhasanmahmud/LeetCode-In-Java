@@ -55,5 +55,7 @@ Solutions to all problems of LeetCode online judge written in Java
 48. [LeetCode: 905 - Sort Array By Parity](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_905.java)
 49. [LeetCode: 1385 - Find the Distance Value Between Two Arrays](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1385.java)
 50. [LeetCode: 136 - Single Number](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_136.java)
-50. [LeetCode: 70 - Climbing Stairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_70.java)
+51. [LeetCode: 70 - Climbing Stairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_70.java)
+52. [LeetCode: 5971 - Minimum Cost of Buying Candies With Discount](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_5971.java)
+
 
