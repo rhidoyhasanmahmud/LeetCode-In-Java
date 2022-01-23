@@ -57,5 +57,6 @@ Solutions to all problems of LeetCode online judge written in Java
 50. [LeetCode: 136 - Single Number](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_136.java)
 51. [LeetCode: 70 - Climbing Stairs](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_70.java)
 52. [LeetCode: 5971 - Minimum Cost of Buying Candies With Discount](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_5971.java)
+53. [LeetCode: 1200 - Minimum Absolute Difference](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1200.java)
 
 
