@@ -59,6 +59,7 @@ Solutions to all problems of LeetCode online judge written in Java
 52. [LeetCode: 5971 - Minimum Cost of Buying Candies With Discount](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_5971.java)
 53. [LeetCode: 1200 - Minimum Absolute Difference](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1200.java)
 54. [LeetCode: 181 - Employees Earning More Than Their Managers](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_181.sql)
-54. [LeetCode: 1909 - Remove One Element to Make the Array Strictly Increasing](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1909.sql)
+55. [LeetCode: 1909 - Remove One Element to Make the Array Strictly Increasing](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1909.sql)
+56. [LeetCode: 1689 - Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1689.sql)
 
 
