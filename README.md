@@ -61,5 +61,6 @@ Solutions to all problems of LeetCode online judge written in Java
 54. [LeetCode: 181 - Employees Earning More Than Their Managers](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_181.sql)
 55. [LeetCode: 1909 - Remove One Element to Make the Array Strictly Increasing](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1909.sql)
 56. [LeetCode: 1689 - Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1689.sql)
+57. [LeetCode: 1221 - Split a String in Balanced Strings](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1221.sql)
 
 
