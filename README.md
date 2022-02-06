@@ -65,5 +65,3 @@ Solutions to all problems of LeetCode online judge written in Java
 58. [LeetCode: 1844 - Replace All Digits with Characters](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1844.sql)
 59. [LeetCode: 1672 - Richest Customer Wealth](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_1672.sql)
 60. [LeetCode: 121 - Best Time to Buy and Sell Stock](https://github.com/CodeMechanix/LeetCode-In-Java/blob/main/src/main/java/LeetCode_121.sql)
-
-
